@@ -18,3 +18,5 @@ vou fazer esse Pr assim pra vc entender como funciona.
 o commit tem que seguir o oseguinte inicio para msg
 
 "task-numero ai coloca uma descrição que faça sentido"
+
+Mandando staging pra remota
